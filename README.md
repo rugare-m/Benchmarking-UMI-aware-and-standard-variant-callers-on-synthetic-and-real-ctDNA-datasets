@@ -1,4 +1,4 @@
-# Benchmarking UMI-aware and standard variant callers on synthetic and real ctDNA datasets
+# Benchmarking UMI-aware and Standard Variant Callers on Synthetic and Real ctDNA Datasets
 
 ### Background
 This project was part of my PhD program at the University of Liverpool's Health Data Science between 2020 and 2024. A preprint is currently under review with BMC Genomics and [available on Research Square.](https://www.researchsquare.com/article/rs-3610989/v1) 
